@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "955820258481",
+    "firebase_url": "https://cabservices-haaan.firebaseio.com",
+    "project_id": "cabservices-haaan",
+    "storage_bucket": "cabservices-haaan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955820258481:android:28708e49ec22fef9f2de90",
+        "android_client_info": {
+          "package_name": "com.example.cab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955820258481-dfopo73a7g1dhdnoq8a9phvdrvtnp52v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFhOZDsQ9TbDmijG9XArWGJrLzi-k_TI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955820258481-dfopo73a7g1dhdnoq8a9phvdrvtnp52v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,53 @@
+name: cab
+description: A cab booking application.
+
+# The following line prevents the package from being accidentally published to
+# pub.dev using `pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+
+  cupertino_icons: ^0.1.3
+  grouped_buttons: ^1.0.4
+  geolocator: ^5.3.1
+  modal_progress_hud: ^0.1.3
+  rflutter_alert: ^1.0.3
+  firebase_auth: ^0.16.1
+  geoflutterfire: ^2.1.0
+  cloud_firestore: ^0.13.6
+  getflutter: ^1.0.11
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+
+# The following section is specific to Flutter.
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+
+
+  assets:
+     - images/taxi1.png
+     - images/City driver-pana.png
+     - images/tracks.jpg
+
+  fonts:
+   - family: DMSans
+     fonts:
+        - asset: fonts/DMSans-Regular.ttf
+  #       style: italic
